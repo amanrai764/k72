@@ -6,7 +6,7 @@ import Projects from './pages/Projects'
 
 const App = () => {
   return (
-    <div className='overflow-x-hidden'>
+    <div className='overflow-x-hidden text-white'>
      
       <Routes>
         <Route path='/' element={<Home />} />
